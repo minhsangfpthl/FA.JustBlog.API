@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FA.JustBlog
+/FA.JustBlog.Common/bin/Debug
+/FA.JustBlog.Common/obj/Debug
+/FA.JustBlog.Data/bin/Debug
+/FA.JustBlog.Data/obj/Debug
+/FA.JustBlog.Models/bin/Debug
+/FA.JustBlog.Models/obj/Debug
+/FA.JustBlog.Services/bin/Debug
+/FA.JustBlog.Services/obj/Debug
+/FA.JustBlog.WebAPI/bin
+/FA.JustBlog.WebAPI/obj/Debug
+/FA.JustBlog.WebMVC/bin
+/FA.JustBlog.WebMVC/obj/Debug
