@@ -1,0 +1,15 @@
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.dll.config
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.pdb
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\EntityFramework.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\EntityFramework.xml
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.CoreCompileInputs.cache
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.CopyComplete
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.dll
+C:\Users\7577\source\repos\project\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.pdb

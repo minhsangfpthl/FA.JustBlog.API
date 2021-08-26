@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Post>
+
+<section class="post_slider_area">
+    <div class="post_slider_inner owl-carousel">
+        @foreach (var item in Model)
+        {
+            <div class="item">
+                <div class="post_s_item">
+                    <div class="post_img">
+                        <img src="~/assets/img/post-slider/@item.ImageSlider" alt="">
+                    </div>
+                    <div class="post_text">
+                        <a href="@Url.Action("Details", "Categories", new { urlSlug = item.Category.UrlSlug })" class="cat">@item.Category.Name</a>
+                        <a href="@Url.Action("Details", "Posts", new { year = item.PublishedDate.Year, month = item.PublishedDate.Month.ToString("D2"), urlSlug = item.UrlSlug})" class="card-title"><h4>@item.Title</h4></a>
+                        <p>@item.ShortDescription</p>
+                        <div class="date">
+                            <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i> @item.PublishedDate.ToString("MMM dd yyyy")</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>

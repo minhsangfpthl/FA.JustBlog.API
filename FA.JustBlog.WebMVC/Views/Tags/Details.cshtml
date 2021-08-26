@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Post>
+@{ ViewBag.Title = ViewBag.TagName; }
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            @foreach (var item in Model)
+            {
+@Html.Partial("_PostOverview", item)}
+
+
+        </div>
+        <div class="col-lg-4">
+            @Html.Partial("_RightMenu")
+        </div>
+    </div>
+</div>
+
